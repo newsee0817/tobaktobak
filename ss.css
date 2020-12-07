@@ -1,0 +1,151 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+}
+#all {
+    position: absolute;
+    width: 1440px;
+    height: 810px;
+    background-color: rgba(10,23,168,1);
+    overflow: hidden;
+}
+#white_bg {
+    fill: rgba(255,255,255,1);
+}
+.white_bg {
+    position: absolute;
+    overflow: visible;
+    width: 1133px;
+    height: 679px;
+    left: 154px;
+    top: 131px;
+}
+#login_box {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(10,23,168,1);
+    stroke-width: 4px;
+    stroke-linejoin: miter;
+    stroke-linecap: round;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.login_box {
+    position: absolute;
+    overflow: visible;
+    width: 332px;
+    height: 59px;
+    left: 344px;
+    top: 355px;
+}
+#blue_login_box {
+    fill: rgba(10,23,168,1);
+}
+.blue_login_box {
+    position: absolute;
+    overflow: visible;
+    width: 752px;
+    height: 250px;
+    left: 344px;
+    top: 411px;
+}
+#yellow_box {
+    fill: rgba(255,223,51,1);
+    stroke: rgba(10,23,168,1);
+    stroke-width: 4px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.yellow_box {
+    position: absolute;
+    overflow: visible;
+    width: 752px;
+    height: 59px;
+    left: 344px;
+    top: 696px;
+}
+#yellow_box_text {
+    left: 648px;
+    top: 714px;
+    position: absolute;
+    overflow: visible;
+    width: 143px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Apple SD Gothic Neo;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 17px;
+    color: rgba(10,23,168,1);
+}
+#original_login {
+    left: 504px;
+    top: 443px;
+    position: absolute;
+    overflow: visible;
+    width: 65px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Apple SD Gothic Neo;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 17px;
+    color: rgba(255,255,255,1);
+}
+#new_login {
+    left: 874px;
+    top: 447px;
+    position: absolute;
+    overflow: visible;
+    width: 65px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Apple SD Gothic Neo;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 17px;
+    color: rgba(255,255,255,1);
+}
+
+#damun {
+    position: absolute;
+    width: 485px;
+    height: 204px;
+    left: 478px;
+    top: 23px;
+    overflow: visible;
+}
+#damun_box {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(10,23,168,1);
+    stroke-width: 10px;
+    stroke-linejoin: round;
+    stroke-linecap: round;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.damun_box {
+    position: absolute;
+    overflow: visible;
+    width: 485px;
+    height: 204px;
+    left: 0px;
+    top: 0px;
+}
+#damun_text {
+    left: 56px;
+    top: 39px;
+    position: absolute;
+    overflow: visible;
+    width: 382px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Apple SD Gothic Neo;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 110px;
+    color: rgba(10,23,168,1);
+}
